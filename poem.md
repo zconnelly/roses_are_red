@@ -8,7 +8,7 @@ Sugar is sweet
 And so are you
 
 ### German
-Roses are rot
-Violets are blue
+Rosen sind rot
+Veilchen sind blau
 Zucker ist suss
-und du bist suss auch?
+und du bist suss auch
